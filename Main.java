@@ -1,8 +1,8 @@
-package academy.learnrpogramming;
+public class Main 
+{
 
-public class Main {
-
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
     daysInMonth(9,2021);
     daysInMonth(2,2020);
     daysInMonth(2,2021);
